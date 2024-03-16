@@ -1,0 +1,7 @@
+Raspberry Pi Diagnostics - version 0.13
+Fri Apr  7 11:08:05 2023
+
+Test : SD Card Speed Test
+Run 1
+Test aborted
+
